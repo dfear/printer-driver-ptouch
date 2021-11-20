@@ -32,13 +32,7 @@ USA
       <right>4.32</right>
       <top>8.4</top>
     </general>
-    <exception PageSize="23x23mm">
-      <left>5.00</left>
-      <bottom>3.00</bottom>
-      <right>4.00</right>
-      <top>3.00</top>
-    </exception>    
-     <exception PageSize="102x152mm">
+    <exception PageSize="102x152mm">
       <bottom>17.28</bottom>
       <top>17.28</top>
     </exception>
